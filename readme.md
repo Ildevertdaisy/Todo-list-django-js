@@ -1,2 +1,2 @@
-### A todo app amde with Django and Vanilla javascript 
+### A todo app made with Django and Vanilla javascript 
 
